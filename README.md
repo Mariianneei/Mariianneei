@@ -1,6 +1,6 @@
 -  My name is Marianne,
 -  I am currently looking for an internship,
--  I'm studying at the Faculty of Systems Analysis and Development and courses abroad.
+-  I'm studying Systems Analysis and Development and complementary courses.
 -  I'm in the 2nd semester.
 -  
 <!---
